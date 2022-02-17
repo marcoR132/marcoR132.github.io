@@ -1,0 +1,80 @@
+html {
+    min-height: 100%;
+    background-image: url(image1.png); 
+    background-size: cover;
+    font-family: 'Courgette', cursive;;
+ }
+
+.first-box{
+      height: 250px;
+      width: 100%;
+      background-color:  ;
+      text-align: center;
+
+}
+.background{
+    opacity: 0.5;
+}
+.first-row{
+     height: 100px;
+     width: 25%;
+     background-color: ;
+     border-radius: 20px;
+     margin-bottom: 30px;
+}
+
+
+.second-row{
+   height: 100px;
+   width: 25%;
+   background-color:  ;
+   float: right;
+   border-radius: 20px;
+   margin-bottom: 30px;
+   
+}
+
+.third-row{
+   margin-top: 100px;
+   height: 100px;
+   width: 25%;
+   background-color:  ;
+   
+   border-radius: 20px;
+}
+
+
+.fourth-row{
+    margin-top: 100px;
+   height: 100px;
+   width: 25%;
+   background-color:  ;
+   float: right;
+   border-radius: 20px;
+}
+
+
+.fifth-row{
+   margin-top: 150px;
+   height: 100px;
+   width: 25%;
+   background-color:  ;
+   float: left;
+   border-radius: 20px;
+}
+.para{
+     font-size: medium;
+}
+.para:hover{
+    color: red;
+    font-size: large;
+    transition: 1s ease-out;
+}
+
+.first-box h1:hover{
+    color: red;
+}
+
+.first-box h2:hover {
+    color: red;
+}
